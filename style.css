@@ -37,6 +37,7 @@ body {
     display: flex;
     padding-top: 104px;
     padding-left: 133px;
+    padding-right: 133px;
     padding-bottom: 168px;
     background-color: #F8F8F8;
 }
@@ -95,4 +96,5 @@ body {
     display: block;
     width: 408px;
     margin-left: 102px;
+    margin-top: -140px;
 }
