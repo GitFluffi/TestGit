@@ -98,3 +98,108 @@ body {
     margin-left: 102px;
     margin-top: -140px;
 }
+
+.main-title {
+    text-align: center;
+    margin-top: 43px;
+    font-size: 24px;
+    line-height: 50px;
+    font-weight: 300;
+}
+
+.main-subtitle {
+    text-align: center;
+    margin-bottom: 84px;
+    font-size: 72px;
+    line-height: 81px;
+    font-weight: 400;
+}
+
+.main-container-first {
+    margin: 0 auto;
+    margin-bottom: 85px;
+}
+
+.main-img-wrapper-first {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    margin-bottom: 67px;
+    width: 417px;
+    height: 630px;
+    background-color: #F8F8F8;
+}
+
+.main-img-first {
+    width: 286px;
+    height: 410px;
+}
+
+.main-img-second {
+    width: 500px;
+    height: 500px;  
+}
+
+.watch-name-first {
+    text-align: center;
+    margin-bottom: 17px;
+    font-size: 32px;
+    line-height: 30px;
+    font-weight: 400;
+}
+
+.main-description-first {
+    text-align: center;
+    margin: 0 auto;
+    width: 531px;
+    margin-bottom: 85px;
+    font-size: 32px;
+    line-height: 50px;
+    font-weight: 300;
+}
+
+.main-description-second {
+    text-align: center;
+    margin: 0 auto;
+    width: 510px;
+    margin-bottom: 59px;
+    font-size: 32px;
+    line-height: 50px;
+    font-weight: 300;
+}
+
+.product-description-wrapper {
+    margin: 0 auto;
+    margin-bottom: 85px;
+    margin-top: 100px;
+}
+
+.product-description-title {
+    text-align: center;
+    margin-bottom: 9px;
+    font-size: 32px;
+    line-height: 60px;
+    font-weight: 400;
+}
+
+.product-description {
+    text-align: center;
+    margin: auto;
+    width: 515px;
+    font-size: 24px;
+    line-height: 40px;
+    font-weight: 300;
+}
+
+.product-description-link {
+    color: #BB8B5D;
+    font-weight: 500;
+}
+
+.line {
+    margin: auto;
+    margin-bottom: 49px;
+    width: 180px;
+    border-bottom: 1px solid #707070;
+}
